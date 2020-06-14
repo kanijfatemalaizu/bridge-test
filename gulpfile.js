@@ -30,7 +30,7 @@ const Promise = require('promise');
 /*-----------------------------------------------
 |   Config
 -----------------------------------------------*/
-const domainLock = 'technext.github.io';
+const domainLock = 'kanijfatemalaizu.github.io';
 
 /*-----------------------------------------------
 |   Paths
