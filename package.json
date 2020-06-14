@@ -18,7 +18,7 @@
     "bootstrap": "^4.3.1",
     "gulp-javascript-obfuscator": "^1.1.6",
     "is_js": "^0.9.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery.mb.ytplayer": "^3.2.2",
     "node-sass": "^4.14.1",
     "popper.js": "^1.14.7",
